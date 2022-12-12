@@ -1,0 +1,55 @@
+.title-mouton{
+  margin-top: 35px;
+}
+.title-img{
+  margin: 0 auto;
+}
+
+.about-us-content {
+  margin-top: 80px;
+  margin: 0 auto;
+  position: relative;
+}
+
+  .separation{
+    margin: 0 auto;
+    width: 91px;
+    height: 4px;
+    background-color: #1C1C1C;
+
+  }
+  .title-aboutus{
+    font-family: 'Rozha One', serif;
+    margin-top: 20px;
+  }
+
+  .paragraphe-about-us{
+    margin: auto;
+    width: 800px;
+    padding: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+  }
+  .equipe{
+    font-weight: bold;
+  }
+  .container2 {
+    width:100%;
+    height:auto;
+    padding:1%;
+  }
+  .img-mouton-team{
+    float:left;
+    margin: 0px 0px 10px calc((100% - 980px) * 0.5);
+    left: 100px;
+    margin-right: 9px;
+  }
+  .name{
+    margin-left: 5px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    font-size: 22px;
+  }
+  .space-fin{
+    margin-bottom: 100px;
+  }
